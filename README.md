@@ -36,4 +36,9 @@ docker run -it \
     --env="QT_X11_NO_MITSHM=1" \
     --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
     ros2-humble-arm64
+8.# Verify ROS 2 is installed
+   source /opt/ros/humble/setup.bash
+   ros2 topic list
+   ros2 node list
+
 
