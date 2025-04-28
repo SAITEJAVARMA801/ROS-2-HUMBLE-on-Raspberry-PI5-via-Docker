@@ -1,5 +1,6 @@
-# ROS-2-HUMBLE-on-Raspberry-PI5-via-Docker
-Step-by-Step Instructions
+# ROS-2-HUMBLE-on-Raspberry-Pi5-via-Docker
+Step-by-step instructions to install ROS 2 Humble on a Raspberry Pi running Ubuntu 24.04 via Docker.
+
 1. Install docker
 
 Update package list
