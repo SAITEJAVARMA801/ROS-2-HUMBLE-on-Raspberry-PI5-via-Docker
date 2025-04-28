@@ -27,7 +27,8 @@ Restart your pi or run:
        nano Dockerfile
 
 4. Paste the code from the docker.txt
-
+	
+   Adjust the local time in the code according to your requirements
 
 5. Build the Docker Image
 
